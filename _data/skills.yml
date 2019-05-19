@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Idiomas
+- skill: Idiomas
+  description: <ul><li>Nivel de francés alto (C1)</li><li>Nivel de inglés medio (B1)</li><li>Nivel de rumano medio (B1)</li></ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Tecnologías
+- skill: Tecnologías
+  description: <ul><li>Nivel de ofimática alto:<ul><li>Word</li><li>Excel</li><li>Power Point</li><li>Access</li></ul></li></ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Habilidades
+- skill: Habilidades
+  description: <ul><li>Personalidad paciente y vocacional para trabajar con niños.</li><li>Capacidad de trabajo en equipo.</li><li>Buen dominio de las habilidades comunicativas.</li></ul>
+
+# Otros
+- skill: Otros
+  description: <ul><li>Carnet de conducir B</li></ul>

@@ -1,13 +1,25 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas
+  uni: Universidad de Zaragoza
+  year: 2019
+  #awards:
+  #  - award:
+  summary: Finalización prevista&colon; Julio de 2019.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Grado en Traducción e Interpretación
+  uni: Universidad de Alicante
+  year: Julio 2018
+  award:
+  summary: Graduada en Traducción e Interpretación de la especialidad de francés. También se cursaron asignaturas de lengua extranjera inglés (B2) y lengua extranjera rumano (B1 -con certificado-).
+
+- degree: Educación Secundaria y Bachillerato 
+  uni: IES Miguel de Cervantes de Fuente-Álamo (Albacete)
+  year: Junio, 2014
+  award:
+  summary:
+
+- degree: Educación Primaria 
+  uni: CP Don Quijote y Sancho de Fuente-Álamo (Albacete)
+  year: Junio, 2008
+  award:
+  summary:
